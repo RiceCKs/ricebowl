@@ -6,7 +6,7 @@ import type { ThemeConfig } from '~/types'
 export const defaultConfig: ThemeConfig = {
   site: {
     title: ' 米糕氧基',
-    subtitle: ' 翻译练习 请勿转载',
+    subtitle: ' ',
     author: '米糕氧基@RiceCK',
     description: '小说翻译练习堆放',
     website: 'https://riceck.netlify.app/',
@@ -50,8 +50,8 @@ export const defaultConfig: ThemeConfig = {
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
+      '个人翻译练习 请勿转载>',
       'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',
-      'Proudly published with <a target="_blank" href="https://astro.build/">Astro</a>',
     ],
   },
   appearance: {
