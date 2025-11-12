@@ -3,7 +3,7 @@ title: 铃木史子、新海诚 - 秒速5厘米 the novel 中翻 [更新至P1.4]
 pubDate: 2025-11-10
 modDate: 2025-01-12 15:01
 categories: ["文艺爱情小说"]
-description: "改编自新海诚同名动画《秒速5厘米》的真人版电影。由真人版电影编剧铃木史子执笔，根据电影剧本改写而来 "
+description: "总有一天，会在哪里，与那人... "
 slug: 5cm-Movie-Novel
 ---
 <br>
