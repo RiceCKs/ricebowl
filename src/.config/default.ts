@@ -17,7 +17,7 @@ export const defaultConfig: ThemeConfig = {
         href: 'https://weibo.com/u/7994614665',
       },
       {
-        name: 'pencil-box-multiple',
+        name: 'pencil-box',
         href: 'https://www.lightnovel.fun/profile/1737890',
       },
       {
