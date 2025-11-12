@@ -45,7 +45,7 @@ export const defaultConfig: ThemeConfig = {
     ],
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
-      '© %year <a target="_blank" href="%website">%author</a>',
+      '© %year  %author',
       '兴趣使然 个人翻译练习 请勿转载',
       '仅供个人学习交流使用，禁作商业用途',
     ],
