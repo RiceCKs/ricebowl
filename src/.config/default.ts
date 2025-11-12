@@ -5,8 +5,8 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '米糕氧基',
-    subtitle: '翻译练习 请勿转载',
+    title: ' 米糕氧基',
+    subtitle: ' 翻译练习 请勿转载',
     author: '米糕氧基@RiceCK',
     description: '小说翻译练习堆放',
     website: 'https://riceck.netlify.app/',
