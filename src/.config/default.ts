@@ -13,8 +13,8 @@ export const defaultConfig: ThemeConfig = {
     pageSize: 6,
     socialLinks: [
       {
-        name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        name: 'weibo',
+        href: '',
       },
       {
         name: 'rss',
