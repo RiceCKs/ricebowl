@@ -7,7 +7,7 @@ description: "改编自新海诚同名动画《秒速5厘米》的真人版电�
 slug: 5cm-Movie-Novel
 ---
 
-![](./content/5cm-Movie-Novel-jp.jpg)
+![](../img/5cm-Movie-Novel-jp.jpg)
 
 
 ##### 书名：秒速5センチメートル the novel／秒速5厘米 the novel<br>作者：鈴木史子／铃木史子<br>原作：新海 誠／新海诚
