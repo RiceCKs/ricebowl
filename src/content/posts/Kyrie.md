@@ -30,7 +30,7 @@ slug: kyrie
 
 ◆．◆．◆．◆．◆．◆．◆．◆．◆．◆．
 
-![](https://pic1.imgdb.cn/item/6914f6e63203f7be00fa23b9.jpg)
+![](https://pic1.imgdb.cn/item/6914f6e63203f7be00fa23ba.jpg)
 
 ◆．◆．◆．◆．◆．◆．◆．◆．◆．◆．
 
