@@ -1,12 +1,10 @@
 ---
-title: Markdown Example
-pubDate: 1921-01-10
-modDate: 2025-01-03 15:01
-categories: ["Examples"]
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-slug: markdown-example
-draft: true
-pin: true
+title: 铃木史子、新海诚 - 秒速5厘米 the novel 中翻
+pubDate: 2025-11-10
+modDate: 2025-01-12 15:01
+categories: ["文艺爱情小说"]
+description: "改编自新海诚同名动画《秒速5厘米》的真人版电影"
+slug: 5cm-Movie-Novel
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
