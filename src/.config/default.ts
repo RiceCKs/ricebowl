@@ -5,28 +5,24 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: ' 米糕氧基',
-    subtitle: ' ',
+    title: ' 语之上',
+    subtitle: ' EchoText',
     author: '米糕氧基@RiceCK',
     description: '小说翻译练习堆放',
     website: 'https://riceck.netlify.app/',
     pageSize: 6,
     socialLinks: [
       {
-        name: 'weibo',
-        href: '',
+        name: 'sina-weibo',
+        href: 'https://weibo.com/u/7994614665',
+      },
+      {
+        name: 'pencil-box-multiple',
+        href: 'https://www.lightnovel.fun/profile/1737890',
       },
       {
         name: 'rss',
         href: '/atom.xml',
-      },
-      {
-        name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
-      },
-      {
-        name: 'mastodon',
-        href: 'https://github.com/moeyua/astro-theme-typography',
       },
     ],
     navLinks: [
@@ -50,8 +46,8 @@ export const defaultConfig: ThemeConfig = {
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
-      '个人翻译练习 请勿转载>',
-      'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',
+      '兴趣使然 个人翻译练习 请勿转载',
+      '仅供个人学习交流使用，禁作商业用途',
     ],
   },
   appearance: {
