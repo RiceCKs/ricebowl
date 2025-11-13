@@ -5,7 +5,7 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: ' 语之上',
+    title: ' 語之上',
     subtitle: ' EchoText',
     author: '米糕氧基@RiceCK',
     description: '小说翻译练习堆放',
