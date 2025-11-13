@@ -1,5 +1,6 @@
 ---
 title: 完本归档
+slug: cover
 ---
 
 ||||
